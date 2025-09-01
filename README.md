@@ -17,4 +17,4 @@ This is a fun little Python project where turtles race to the finish line! You c
 
 1. Run the Python script:
    ```bash
-   python turtle_race.py
+   python turtle_game.py
